@@ -4,8 +4,6 @@
  * Вывод в консоль должен быть таким:
  * JAVA JAVA JAVA JAVA JAVA JAVA JAVA JAVA JAVA JAVA
  */
-
-
 package Practice.lesson1;
 
 public class Task1 {
@@ -14,7 +12,6 @@ public class Task1 {
         while(i<10){
             System.out.print("JAVA ");
             i++;
-
         }
     }
 }
