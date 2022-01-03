@@ -1,3 +1,7 @@
+/**
+ * 2. Повторить задание 1, но используя цикл for.
+ */
+
 package Practice.lesson1;
 
 public class Task2 {
